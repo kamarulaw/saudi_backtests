@@ -1,1 +1,4 @@
-
+- Notes: https://docs.google.com/document/d/1z9lnqqU_mf7javwaqD3_5egh18TGO8CM8Gku3itFZ6g/edit?tab=t.0
+- AB: Was strat profitable overall? If not, how can strat be altered to become profitable?
+- AB: Less step by step code breakdown and more plots + results next check-in
+- AB: Analyze counts for short strat instead
