@@ -1,1 +1,2 @@
 - https://youtu.be/IALAN6mP49I?si=sTrkxSHByOMdas2_
+- https://discuss.streamlit.io/t/yfratelimiterror-too-many-requests-rate-limited-try-after-a-while/111207/2
